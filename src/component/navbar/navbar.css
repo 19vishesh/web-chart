@@ -12,7 +12,8 @@ a {
 }
 
 .active {
-    color: black
+    color: black;
+    font-weight: 400;
 }
 
 .logo {

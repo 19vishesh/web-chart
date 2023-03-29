@@ -13,10 +13,10 @@ const Navbar = () => {
         <p>WASSERSTOFF</p>
       </div>
       <Input placeholder="Search" style={{ width: "30%", height: "1.8rem", background:"#EEF0FA" }} />
-      <p><NavLink to="/">Statistics</NavLink></p>
+      <p><NavLink to="statistics">Statistics</NavLink></p>
       <p><NavLink to="/">Overview</NavLink></p>
       <p><NavLink to="dashboard">Dashboard</NavLink></p>
-      <p><NavLink to="/">Analytics</NavLink></p>
+      <p><NavLink to="analytics">Analytics</NavLink></p>
       
       <UserOutlined style={{ fontSize: '25px', color: "#A1A3D4" }} />
       <UnorderedListOutlined style={{ fontSize: '25px', color: "#A1A3D4" }} />
