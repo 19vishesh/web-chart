@@ -11,7 +11,7 @@ const OverviewLeft = () => {
             width: 100,
             autoFit: false,
             percent: 0.27,
-            color: ['#023AFF', '#E8EDF3'],
+            color: ['#023AFF', '#D3D8DE'],
         };
         return <RingProgress {...config} />;
     };
@@ -21,7 +21,7 @@ const OverviewLeft = () => {
             width: 100,
             autoFit: false,
             percent: 0.67,
-            color: ['#00B929', '#E8EDF3'],
+            color: ['#00B929', '#D3D8DE'],
         };
         return <RingProgress {...config} />;
     };
@@ -43,8 +43,8 @@ const OverviewLeft = () => {
             </div>
 
             <div className="overView__left-side__indicators">
-                <div className="overView__left-side__indicators-box1">
-                    <div className='indicator1'>
+                <div className="overView__left-side__indicators-box">
+                    <div className='indicator' style={{ background:"#8676FF"}}>
                         <RiseOutlined style={{color:"white", fontSize:"1.3rem"}}/>
                     </div>
                     
@@ -54,8 +54,8 @@ const OverviewLeft = () => {
                     </div>
                 </div>
 
-                <div className="overView__left-side__indicators-box2">
-                    <div className='indicator2'>
+                <div className="overView__left-side__indicators-box">
+                    <div className='indicator' style={{ background: "#66C8FF" }}>
                         <CrownOutlined style={{ color: "white", fontSize: "1.3rem" }} />
                     </div>
 
@@ -65,8 +65,8 @@ const OverviewLeft = () => {
                     </div>
                 </div>
 
-                <div className="overView__left-side__indicators-box3">
-                    <div className='indicator3'>
+                <div className="overView__left-side__indicators-box">
+                    <div className='indicator' style={{ background: "#FF9066" }}>
                         <BarChartOutlined style={{ color: "white", fontSize: "1.3rem" }} />
                     </div>
 

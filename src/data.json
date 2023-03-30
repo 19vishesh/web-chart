@@ -1,0 +1,2714 @@
+[
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2018,
+    "military_expenditure": 187916789
+  },
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2019,
+    "military_expenditure": 225835644
+  },
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2020,
+    "military_expenditure": 261682436
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2018,
+    "military_expenditure": 175319336
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2019,
+    "military_expenditure": 197225913
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2020,
+    "military_expenditure": 216383147
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2018,
+    "military_expenditure": 9550713678
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2019,
+    "military_expenditure": 10303600575
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2020,
+    "military_expenditure": 9957840537
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2018,
+    "military_expenditure": 1609807292
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2019,
+    "military_expenditure": 1470938717
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2020,
+    "military_expenditure": 1300872545
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2018,
+    "military_expenditure": 3443181399
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2019,
+    "military_expenditure": 3132654926
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2020,
+    "military_expenditure": 3142676266
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2018,
+    "military_expenditure": 523375920
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2019,
+    "military_expenditure": 652000175
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2020,
+    "military_expenditure": 635254318
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2018,
+    "military_expenditure": 25390997544
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2019,
+    "military_expenditure": 26079346314
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2020,
+    "military_expenditure": 27617686554
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2018,
+    "military_expenditure": 3262811045
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2019,
+    "military_expenditure": 3237796686
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2020,
+    "military_expenditure": 3494175818
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2018,
+    "military_expenditure": 1715829838
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2019,
+    "military_expenditure": 1854235294
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2020,
+    "military_expenditure": 2172590799
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2018,
+    "military_expenditure": 1543025081
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2019,
+    "military_expenditure": 1557712766
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2020,
+    "military_expenditure": 1404787234
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2018,
+    "military_expenditure": 3808489725
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2019,
+    "military_expenditure": 4348501895
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2020,
+    "military_expenditure": 4335139654
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2018,
+    "military_expenditure": 730266177
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2019,
+    "military_expenditure": 773713029
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2020,
+    "military_expenditure": 785018880
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2018,
+    "military_expenditure": 4656985737
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2019,
+    "military_expenditure": 4761195701
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2020,
+    "military_expenditure": 5330043077
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2018,
+    "military_expenditure": 24516471
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2019,
+    "military_expenditure": 24472112
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2020,
+    "military_expenditure": 24311641
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2018,
+    "military_expenditure": 84777276
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2019,
+    "military_expenditure": 68112390
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2020,
+    "military_expenditure": 68812207
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2018,
+    "military_expenditure": 630081737
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2019,
+    "military_expenditure": 598213046
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2020,
+    "military_expenditure": 597974814
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2018,
+    "military_expenditure": 164128016
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2019,
+    "military_expenditure": 165369204
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2020,
+    "military_expenditure": 165740110
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2018,
+    "military_expenditure": 485761919
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2019,
+    "military_expenditure": 514720930
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2020,
+    "military_expenditure": 571041826
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2018,
+    "military_expenditure": 27074280490
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2019,
+    "military_expenditure": 25906871197
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2020,
+    "military_expenditure": 25101252046
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2018,
+    "military_expenditure": 352370354
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2019,
+    "military_expenditure": 414728739
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2020,
+    "military_expenditure": 440055230
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2018,
+    "military_expenditure": 940150206
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2019,
+    "military_expenditure": 2158557527
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2020,
+    "military_expenditure": 1210453851
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2018,
+    "military_expenditure": 280636680
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2019,
+    "military_expenditure": 357921558
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2020,
+    "military_expenditure": 368214699
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2018,
+    "military_expenditure": 62705167
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2019,
+    "military_expenditure": 84689414
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2020,
+    "military_expenditure": 65169280
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2018,
+    "military_expenditure": 552587739
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2019,
+    "military_expenditure": 595407618
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2020,
+    "military_expenditure": 634735997
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2018,
+    "military_expenditure": 417726167
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2019,
+    "military_expenditure": 422294772
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2020,
+    "military_expenditure": 375736642
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2018,
+    "military_expenditure": 22632430416
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2019,
+    "military_expenditure": 22204408440
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2020,
+    "military_expenditure": 22854074305
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2018,
+    "military_expenditure": 10276050
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2019,
+    "military_expenditure": 9728061
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Year": 2020,
+    "military_expenditure": 10969940
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2018,
+    "military_expenditure": 29822279
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2019,
+    "military_expenditure": 40777667
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2020,
+    "military_expenditure": 39403412
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2018,
+    "military_expenditure": 237785783
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2019,
+    "military_expenditure": 234709655
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2020,
+    "military_expenditure": 308459280
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2018,
+    "military_expenditure": 5184587161
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2019,
+    "military_expenditure": 5182156529
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2020,
+    "military_expenditure": 5036441830
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2018,
+    "military_expenditure": 229168000000
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2019,
+    "military_expenditure": 240333000000
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2020,
+    "military_expenditure": 244934000000
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2018,
+    "military_expenditure": 9457781640
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2019,
+    "military_expenditure": 10167547856
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2020,
+    "military_expenditure": 10132720082
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2018,
+    "military_expenditure": 283305541
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2019,
+    "military_expenditure": 299953239
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2020,
+    "military_expenditure": 285908111
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2018,
+    "military_expenditure": 570124355
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2019,
+    "military_expenditure": 535951382
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2020,
+    "military_expenditure": 589217534
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2018,
+    "military_expenditure": 923411969
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2019,
+    "military_expenditure": 1001812141
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2020,
+    "military_expenditure": 1030843390
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2018,
+    "military_expenditure": 428297599
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2019,
+    "military_expenditure": 401589790
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2020,
+    "military_expenditure": 413921629
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2018,
+    "military_expenditure": 2641429113
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2019,
+    "military_expenditure": 2910252497
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2020,
+    "military_expenditure": 3186836708
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2018,
+    "military_expenditure": 305145567
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2019,
+    "military_expenditure": 352709566
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2020,
+    "military_expenditure": 364338889
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2018,
+    "military_expenditure": 4349264258
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2019,
+    "military_expenditure": 4556755136
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2020,
+    "military_expenditure": 4838203273
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2018,
+    "military_expenditure": 583438648
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2019,
+    "military_expenditure": 613299023
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2020,
+    "military_expenditure": 627495894
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2018,
+    "military_expenditure": 2556181723
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2019,
+    "military_expenditure": 2399900000
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2020,
+    "military_expenditure": 2243500000
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2018,
+    "military_expenditure": 3762124711
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2019,
+    "military_expenditure": 3743671452
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2020,
+    "military_expenditure": 4015802872
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2018,
+    "military_expenditure": 294831912
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2019,
+    "military_expenditure": 317200000
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2020,
+    "military_expenditure": 371487092
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2018,
+    "military_expenditure": 143120224
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2019,
+    "military_expenditure": 160714590
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2018,
+    "military_expenditure": 596579177
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2019,
+    "military_expenditure": 637035378
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2020,
+    "military_expenditure": 687161230
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2018,
+    "military_expenditure": 90162028
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2019,
+    "military_expenditure": 86532286
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2020,
+    "military_expenditure": 82221533
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2018,
+    "military_expenditure": 559944624
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2019,
+    "military_expenditure": 544839430
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2020,
+    "military_expenditure": 460443218
+  },
+  {
+    "Entity": "Europe",
+    "Code": "EUR",
+    "Year": 2020,
+    "military_expenditure": 374731000000
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2018,
+    "military_expenditure": 80253445
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2019,
+    "military_expenditure": 79497172
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2020,
+    "military_expenditure": 75068125
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2018,
+    "military_expenditure": 3600086106
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2019,
+    "military_expenditure": 3629646216
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2020,
+    "military_expenditure": 3985993311
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2018,
+    "military_expenditure": 49304351246
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2019,
+    "military_expenditure": 50118929212
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2020,
+    "military_expenditure": 51572230107
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2018,
+    "military_expenditure": 253854052
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2019,
+    "military_expenditure": 266879196
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2020,
+    "military_expenditure": 258872826
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2018,
+    "military_expenditure": 11821741
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2019,
+    "military_expenditure": 14529116
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2020,
+    "military_expenditure": 14337766
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2018,
+    "military_expenditure": 314930909
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2019,
+    "military_expenditure": 310614129
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2020,
+    "military_expenditure": 304485193
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2018,
+    "military_expenditure": 44670366040
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2019,
+    "military_expenditure": 49007512315
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2020,
+    "military_expenditure": 51570203502
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2018,
+    "military_expenditure": 205134186
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2019,
+    "military_expenditure": 233320137
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2020,
+    "military_expenditure": 236717003
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2018,
+    "military_expenditure": 5474629710
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2019,
+    "military_expenditure": 5471562920
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2020,
+    "military_expenditure": 5236970762
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2018,
+    "military_expenditure": 276703946
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2019,
+    "military_expenditure": 331882552
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2020,
+    "military_expenditure": 336620574
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2018,
+    "military_expenditure": 211295540
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2019,
+    "military_expenditure": 197754331
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2020,
+    "military_expenditure": 201191663
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2018,
+    "military_expenditure": 19147789
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2019,
+    "military_expenditure": 22571242
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2020,
+    "military_expenditure": 22434104
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2018,
+    "military_expenditure": 62822610
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2019,
+    "military_expenditure": 67206938
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2020,
+    "military_expenditure": 65523779
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2018,
+    "military_expenditure": 124597
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2019,
+    "military_expenditure": 113017
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2020,
+    "military_expenditure": 225215
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2018,
+    "military_expenditure": 392189506
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2019,
+    "military_expenditure": 407390258
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2020,
+    "military_expenditure": 392467588
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2018,
+    "military_expenditure": 1721317589
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2019,
+    "military_expenditure": 2051055453
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2020,
+    "military_expenditure": 2463029604
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2018,
+    "military_expenditure": 69285424596
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2019,
+    "military_expenditure": 71468900524
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2020,
+    "military_expenditure": 73000865183
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2018,
+    "military_expenditure": 7835234851
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2019,
+    "military_expenditure": 9003028193
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2020,
+    "military_expenditure": 9487524780
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2018,
+    "military_expenditure": 15257258292
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2019,
+    "military_expenditure": 12528450211
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2020,
+    "military_expenditure": 12150789862
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2018,
+    "military_expenditure": 6269562939
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2019,
+    "military_expenditure": 7598829336
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2020,
+    "military_expenditure": 6994394036
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2018,
+    "military_expenditure": 1060018179
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2019,
+    "military_expenditure": 1112740708
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2020,
+    "military_expenditure": 1126308917
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2018,
+    "military_expenditure": 20074098623
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2019,
+    "military_expenditure": 20504377104
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2020,
+    "military_expenditure": 21065020776
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2018,
+    "military_expenditure": 27122187908
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2019,
+    "military_expenditure": 26380673981
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2020,
+    "military_expenditure": 28369663676
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2018,
+    "military_expenditure": 210462522
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2019,
+    "military_expenditure": 265261724
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2020,
+    "military_expenditure": 247043306
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2018,
+    "military_expenditure": 47426451377
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2019,
+    "military_expenditure": 47609019987
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2020,
+    "military_expenditure": 48159534537
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2018,
+    "military_expenditure": 1972654993
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2019,
+    "military_expenditure": 2032112676
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2020,
+    "military_expenditure": 2082917903
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2018,
+    "military_expenditure": 1490507929
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2019,
+    "military_expenditure": 1928776022
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2020,
+    "military_expenditure": 1751553909
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2018,
+    "military_expenditure": 1163347728
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2019,
+    "military_expenditure": 1116872420
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2020,
+    "military_expenditure": 1096954051
+  },
+  {
+    "Entity": "Kosovo",
+    "Code": "OWID_KOS",
+    "Year": 2018,
+    "military_expenditure": 61691810
+  },
+  {
+    "Entity": "Kosovo",
+    "Code": "OWID_KOS",
+    "Year": 2019,
+    "military_expenditure": 65705329
+  },
+  {
+    "Entity": "Kosovo",
+    "Code": "OWID_KOS",
+    "Year": 2020,
+    "military_expenditure": 76980356
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2018,
+    "military_expenditure": 7203459250
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2019,
+    "military_expenditure": 7373519737
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2020,
+    "military_expenditure": 6940123899
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2018,
+    "military_expenditure": 126843523
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2019,
+    "military_expenditure": 128943452
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2020,
+    "military_expenditure": 130127017
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2018,
+    "military_expenditure": 691778515
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2019,
+    "military_expenditure": 691894313
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2020,
+    "military_expenditure": 739205727
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2018,
+    "military_expenditure": 2861304213
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2019,
+    "military_expenditure": 2521246648
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2020,
+    "military_expenditure": 1036062280
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2018,
+    "military_expenditure": 49252969
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2019,
+    "military_expenditure": 44845967
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2020,
+    "military_expenditure": 41606179
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2018,
+    "military_expenditure": 20517026
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2019,
+    "military_expenditure": 19228500
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2020,
+    "military_expenditure": 15136692
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2018,
+    "military_expenditure": 1025407366
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2019,
+    "military_expenditure": 1093819973
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2020,
+    "military_expenditure": 1135309708
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2018,
+    "military_expenditure": 379507263
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2019,
+    "military_expenditure": 428769403
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2020,
+    "military_expenditure": 478877123
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2018,
+    "military_expenditure": 70948261
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2019,
+    "military_expenditure": 76576631
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2020,
+    "military_expenditure": 87786311
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2018,
+    "military_expenditure": 63548439
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2019,
+    "military_expenditure": 87020933
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2020,
+    "military_expenditure": 85780193
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2018,
+    "military_expenditure": 3380560998
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2019,
+    "military_expenditure": 3769026335
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2020,
+    "military_expenditure": 3909694459
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2018,
+    "military_expenditure": 449336452
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2019,
+    "military_expenditure": 475638186
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2020,
+    "military_expenditure": 579852956
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2018,
+    "military_expenditure": 64469082
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2019,
+    "military_expenditure": 83636364
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2020,
+    "military_expenditure": 78530868
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2018,
+    "military_expenditure": 159795214
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2019,
+    "military_expenditure": 162397955
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2020,
+    "military_expenditure": 199308203
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2018,
+    "military_expenditure": 22060977
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2019,
+    "military_expenditure": 21831362
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2020,
+    "military_expenditure": 19411783
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2018,
+    "military_expenditure": 6050823234
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2019,
+    "military_expenditure": 6650808254
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2020,
+    "military_expenditure": 6606958740
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2018,
+    "military_expenditure": 37930197
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2019,
+    "military_expenditure": 43009329
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2020,
+    "military_expenditure": 43135405
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2018,
+    "military_expenditure": 97099390
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2019,
+    "military_expenditure": 99729483
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2020,
+    "military_expenditure": 106986940
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2018,
+    "military_expenditure": 75116113
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2019,
+    "military_expenditure": 77656740
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2020,
+    "military_expenditure": 100344556
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2018,
+    "military_expenditure": 3641016724
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2019,
+    "military_expenditure": 3721323837
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2020,
+    "military_expenditure": 4794028978
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2018,
+    "military_expenditure": 202062860
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2019,
+    "military_expenditure": 217451322
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2020,
+    "military_expenditure": 166203580
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2018,
+    "military_expenditure": 2356675942
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2019,
+    "military_expenditure": 2225151433
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2020,
+    "military_expenditure": 3140977788
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2018,
+    "military_expenditure": 433721290
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2019,
+    "military_expenditure": 414059490
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2020,
+    "military_expenditure": 416900906
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2018,
+    "military_expenditure": 442753218
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2019,
+    "military_expenditure": 428701839
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2020,
+    "military_expenditure": 424735804
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2018,
+    "military_expenditure": 10820547258
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2019,
+    "military_expenditure": 12000671742
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2020,
+    "military_expenditure": 12210857142
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2018,
+    "military_expenditure": 2456388327
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2019,
+    "military_expenditure": 2926961107
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2020,
+    "military_expenditure": 3007543064
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2018,
+    "military_expenditure": 82684300
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2019,
+    "military_expenditure": 76931507
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2020,
+    "military_expenditure": 78330450
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2018,
+    "military_expenditure": 212376146
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2019,
+    "military_expenditure": 247632083
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2020,
+    "military_expenditure": 225342410
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2018,
+    "military_expenditure": 2027855315
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2019,
+    "military_expenditure": 1860260430
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2020,
+    "military_expenditure": 2402535698
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2018,
+    "military_expenditure": 114279462
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2019,
+    "military_expenditure": 146093380
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2020,
+    "military_expenditure": 154092524
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2018,
+    "military_expenditure": 7128270294
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2019,
+    "military_expenditure": 7520413966
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2020,
+    "military_expenditure": 7513757523
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2018,
+    "military_expenditure": 7575466661
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2019,
+    "military_expenditure": 6551040312
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2020,
+    "military_expenditure": 6662881258
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2018,
+    "military_expenditure": 10523761959
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2019,
+    "military_expenditure": 10388318165
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2020,
+    "military_expenditure": 10097221387
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2018,
+    "military_expenditure": 81972420
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2019,
+    "military_expenditure": 80846154
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2020,
+    "military_expenditure": 87018320
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2018,
+    "military_expenditure": 371280199
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2019,
+    "military_expenditure": 375779511
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2020,
+    "military_expenditure": 390567833
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2018,
+    "military_expenditure": 2677023534
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2019,
+    "military_expenditure": 2766847335
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2020,
+    "military_expenditure": 2720219888
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2018,
+    "military_expenditure": 2965335746
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2019,
+    "military_expenditure": 3471584034
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2020,
+    "military_expenditure": 3494961210
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2018,
+    "military_expenditure": 11590970054
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2019,
+    "military_expenditure": 11786153846
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2020,
+    "military_expenditure": 12815477288
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2018,
+    "military_expenditure": 4090196601
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2019,
+    "military_expenditure": 4277877295
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2020,
+    "military_expenditure": 4556714046
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2018,
+    "military_expenditure": 4214189381
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2019,
+    "military_expenditure": 4613040397
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2020,
+    "military_expenditure": 5579061001
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2018,
+    "military_expenditure": 62404221344
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2019,
+    "military_expenditure": 65201335848
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2020,
+    "military_expenditure": 66838181926
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2018,
+    "military_expenditure": 117908977
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2019,
+    "military_expenditure": 124073353
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2020,
+    "military_expenditure": 142434353
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2018,
+    "military_expenditure": 72918274489
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2019,
+    "military_expenditure": 61952000000
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2020,
+    "military_expenditure": 55534555625
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2018,
+    "military_expenditure": 371697195
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2019,
+    "military_expenditure": 356820796
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2020,
+    "military_expenditure": 378444130
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2018,
+    "military_expenditure": 794890596
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2019,
+    "military_expenditure": 1143779270
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2020,
+    "military_expenditure": 1086064873
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2018,
+    "military_expenditure": 23519719
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2019,
+    "military_expenditure": 23496255
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2020,
+    "military_expenditure": 23982238
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2018,
+    "military_expenditure": 27313518
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2019,
+    "military_expenditure": 25641868
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2020,
+    "military_expenditure": 20187382
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2018,
+    "military_expenditure": 10523796937
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2019,
+    "military_expenditure": 10662445015
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2020,
+    "military_expenditure": 11019813986
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2018,
+    "military_expenditure": 1262043085
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2019,
+    "military_expenditure": 1802507837
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2020,
+    "military_expenditure": 1777597366
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2018,
+    "military_expenditure": 510433952
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2019,
+    "military_expenditure": 572884013
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2020,
+    "military_expenditure": 561774724
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2018,
+    "military_expenditure": 3458142351
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2019,
+    "military_expenditure": 3435736037
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2020,
+    "military_expenditure": 3475201204
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2018,
+    "military_expenditure": 40814286027
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2019,
+    "military_expenditure": 43890861986
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2020,
+    "military_expenditure": 46055696813
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Year": 2018,
+    "military_expenditure": 244894170
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Year": 2019,
+    "military_expenditure": 186498925
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2018,
+    "military_expenditure": 17024230677
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2019,
+    "military_expenditure": 17189319301
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2020,
+    "military_expenditure": 17160268854
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2018,
+    "military_expenditure": 1542822294
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2019,
+    "military_expenditure": 1699785117
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2020,
+    "military_expenditure": 1559970001
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2018,
+    "military_expenditure": 798532826
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2019,
+    "military_expenditure": 722256177
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2020,
+    "military_expenditure": 456959569
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2018,
+    "military_expenditure": 5365332718
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2019,
+    "military_expenditure": 5839555791
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2020,
+    "military_expenditure": 6233806559
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2018,
+    "military_expenditure": 4596096516
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2019,
+    "military_expenditure": 5113682093
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2020,
+    "military_expenditure": 5428081383
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2018,
+    "military_expenditure": 10307368959
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2019,
+    "military_expenditure": 10993171742
+  },
+  {
+    "Entity": "Taiwan",
+    "Code": "TWN",
+    "Year": 2020,
+    "military_expenditure": 11596968723
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2018,
+    "military_expenditure": 84286661
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2019,
+    "military_expenditure": 84290062
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2020,
+    "military_expenditure": 80148187
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2018,
+    "military_expenditure": 612228714
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2019,
+    "military_expenditure": 618943446
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2020,
+    "military_expenditure": 639035577
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2018,
+    "military_expenditure": 7141327200
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2019,
+    "military_expenditure": 7286122371
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2020,
+    "military_expenditure": 7362140899
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2018,
+    "military_expenditure": 20793933
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2019,
+    "military_expenditure": 34400000
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2020,
+    "military_expenditure": 38113200
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2018,
+    "military_expenditure": 99675873
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2019,
+    "military_expenditure": 170566832
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2020,
+    "military_expenditure": 112649816
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2018,
+    "military_expenditure": 167646674
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2019,
+    "military_expenditure": 172525849
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2020,
+    "military_expenditure": 157304376
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2018,
+    "military_expenditure": 813922815
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2019,
+    "military_expenditure": 1000922131
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2020,
+    "military_expenditure": 1046117830
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2018,
+    "military_expenditure": 19225186159
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2019,
+    "military_expenditure": 20603378497
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2020,
+    "military_expenditure": 19567211572
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2018,
+    "military_expenditure": 422634822
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2019,
+    "military_expenditure": 647606607
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2020,
+    "military_expenditure": 948138516
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2018,
+    "military_expenditure": 4744195404
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2019,
+    "military_expenditure": 5419138048
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2020,
+    "military_expenditure": 5995031272
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2018,
+    "military_expenditure": 54162945224
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2019,
+    "military_expenditure": 56856133066
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2020,
+    "military_expenditure": 58484918359
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2018,
+    "military_expenditure": 694860000000
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2019,
+    "military_expenditure": 734344000000
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2020,
+    "military_expenditure": 766583000000
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2018,
+    "military_expenditure": 1196201589
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2019,
+    "military_expenditure": 1154916149
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2020,
+    "military_expenditure": 1259942240
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2018,
+    "military_expenditure": 1506903860
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2018,
+    "military_expenditure": 532548
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2019,
+    "military_expenditure": 411270
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2018,
+    "military_expenditure": 5603499209
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2018,
+    "military_expenditure": 334255838
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2019,
+    "military_expenditure": 292072463
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2020,
+    "military_expenditure": 262359868
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2018,
+    "military_expenditure": 1100563838
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2019,
+    "military_expenditure": 546939000
+  }
+]

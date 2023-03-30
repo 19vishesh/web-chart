@@ -18,8 +18,8 @@ const Navbar = () => {
       <p><NavLink to="dashboard">Dashboard</NavLink></p>
       <p><NavLink to="analytics">Analytics</NavLink></p>
       
-      <UserOutlined style={{ fontSize: '25px', color: "#A1A3D4" }} />
-      <UnorderedListOutlined style={{ fontSize: '25px', color: "#A1A3D4" }} />
+      <UserOutlined className='user__icon' />
+      <UnorderedListOutlined className='menu' />
     </div>
   )
 }

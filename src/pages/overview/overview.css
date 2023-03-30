@@ -7,8 +7,8 @@
 .overView .overView__components {
 	display: flex;
 	justify-content: space-between;
-	/* margin-left: 3rem; */
 }
+
 .OverView__components-barChart {
 	display: flex;
 	position: absolute;

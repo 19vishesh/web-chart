@@ -3,13 +3,20 @@ import './dashRight.css'
 
 import { BarChartOutlined, EyeOutlined, FireOutlined } from '@ant-design/icons'
 
-const DashRight = () => {
+const DashRight = ({ highExpenditure, lowExpenditure }) => {
     return (
         <div className='dashBoard__right'>
 
             {/* timeline */}
+            <div className="dashBoard__right-timeline__title">
+                timeline
+            </div>
             <div className="dashBoard__right-timeline">
-                
+                <span>1W</span>
+                <span>1M</span>
+                <span>3M</span>
+                <span>1Y</span>
+                <span>All</span>
             </div>
 
             {/* Circle */}
@@ -27,12 +34,13 @@ const DashRight = () => {
                 <div className="dashBoard__right-informer__component shoppingViews">
                     <EyeOutlined style={{ fontSize: "25px", color: "black" }} />
                     <p>TREND GOODS</p>
-                    <p className='number'>65,540</p>
+                    <p className='number'>{highExpenditure}</p>
+                    {/* {console.log(highExpenditure)} */}
                 </div>
                 <div className="dashBoard__right-informer__component storeDynamics">
                     <BarChartOutlined style={{ fontSize: "25px", color: "black" }} />
                     <p>TREND GOODS</p>
-                    <p className='number'>204</p>
+                    <p className='number'>{lowExpenditure}</p>
                 </div>
             </div>
 

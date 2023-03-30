@@ -8,7 +8,7 @@
 }
 /* Hakathon Title */
 .overView__left-title {
-    font-family: 'Archivo';
+    font-family: 'Archivo', sans-serif;
     font-weight: 600;
     font-size: .8rem;
     line-height: 22px;
@@ -46,19 +46,19 @@
     color: #383874;
 }
 
-/* indeicators */
+/* indicators STARTS here */
 .overView__left-side__indicators {
     line-height: .5rem;
     margin-bottom: 2rem;
 }
 
-.overView__left-side__indicators .overView__left-side__indicators-box1 {
+.overView__left-side__indicators .overView__left-side__indicators-box {
     display: flex;
     align-items: center;
 }
 
-.overView__left-side__indicators .overView__left-side__indicators-box1 .indicator1 {
-    background: #8676FF;
+.overView__left-side__indicators .overView__left-side__indicators-box .indicator {
+    /* background: #8676FF; */
     width: 55px;
     height: 55px;
     border-radius: 20px;
@@ -67,42 +67,11 @@
     align-items: center;
     margin-right: 1rem;
 }
+/* indicators ENDS here */
 
-.overView__left-side__indicators .overView__left-side__indicators-box2 {
-    display: flex;
-    align-items: center;
-}
-
-.overView__left-side__indicators .overView__left-side__indicators-box2 .indicator2 {
-    background: #8676FF;
-    width: 55px;
-    height: 55px;
-    border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 1rem;
-}
-
-.overView__left-side__indicators .overView__left-side__indicators-box3 {
-    display: flex;
-    align-items: center;
-}
-
-.overView__left-side__indicators .overView__left-side__indicators-box3 .indicator3 {
-    background: #8676FF;
-    width: 55px;
-    height: 55px;
-    border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 1rem;
-}
-
-/* dough chart */
+/* dough chart STARTS here */
 .overView__left-dough {
-    background: #EEF0FA;
+    /* background: #EEF0FA; */
     display: flex;
     justify-content: space-between;
 }
@@ -125,3 +94,4 @@
     line-height: 1rem;
     /* margin-right: 1rem; */
 }
+/* dough chart ENDS here */
