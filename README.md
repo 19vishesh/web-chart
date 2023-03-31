@@ -43,18 +43,18 @@ To Visit App:
 
 ## Overview
   
-This was a 92hr long project duing the Wasserstoff Hackathon. Project goals included using technologies learned up until this point and familiarizing myself with documentation for features. 
+This was a 96hr long project duing the Wasserstoff Hackathon. Project goals included using technologies learned up until this point and familiarizing myself with documentation for features. 
 
 ## Requirements
 
 # There are few points that I have taken care of during building this project
-1. All layout and structure should exlainatory names.
-2. All the CSS className are self explainatory.
-3. Folder strucure should be followed properly.
-4. Minimal use of Inline CSS.
-5. Only installed necessary packages and remove unnecessay packages.
-6. `Not used any image` for implementation of the project.
-7. Last and very important tried to give proper comments to every Section possible.
+- All layout and structure should exlainatory names.
+- All the CSS className are self explainatory.
+- Folder strucure should be followed properly.
+- Minimal use of Inline CSS.
+- Only installed necessary packages and remove unnecessay packages.
+- `Not used any image` for implementation of the project.
+- Last and very important tried to give proper comments to every Section possible.
 
 ## Challenges Faced
 
@@ -63,20 +63,20 @@ This was a 92hr long project duing the Wasserstoff Hackathon. Project goals incl
 
 
 ## Approach
- First I have completed the folder structure so I can work on predecided path and deleted unnecessary files and folder (created during create-react-app).
+- First I have completed the folder structure so I can work on predecided path and deleted unnecessary files and folder (created during create-react-app).
 
- Then, Two components `navbar` and `footer` I built and pass it to the App.js file. 
+- Then, Two components `navbar` and `footer` I built and pass it to the App.js file. 
 
- There was only two page required to build `Overview` and `Dashboard` so except these two there was two more pages `Statistics` and `Analytics` i have creted a underconstruction message under these two pages (`this was not the requiremnt of the project, built for better user Experience`).
+- There was only two page required to build `Overview` and `Dashboard` so except these two there was two more pages `Statistics` and `Analytics` i have creted a underconstruction message under these two pages (`this was not the requiremnt of the project, built for better user Experience`).
 
- Under `Overview` page i have categoried it into Three section [`left`, `right`, and `bottom`] *** i know it is very straight-forward but yes it is straight-forward ***
+- Under `Overview` page i have categoried it into Three section [`left`, `right`, and `bottom`] *** i know it is very straight-forward but yes it is straight-forward ***
 
- And like Overview i did same for the `Dashboard` page two sections [`left` and `right`].
+- And like Overview i did same for the `Dashboard` page two sections [`left` and `right`].
 
- For positioning the layout and elements i have used CSS property `flex` (a lot of CSS work).
+- For positioning the layout and elements i have used CSS property `flex` (a lot of CSS work).
 
- So, now you are having all the basic and important info of the project. I hope you will like my project, I know i can do better than this but have tried my best to implement all the feature and functionalities according to the template in this tight time boundation.
- All positive feedbacks are Welcome ** email me : 19vishesh@gmail.com **
+- So, now you are having all the basic and important info of the project. I hope you will like my project, I know i can do better than this but have tried my best to implement all the feature and functionalities according to the template in this tight time boundation.
+- All positive feedbacks are Welcome ** email me : 19vishesh@gmail.com **
 
 
 
@@ -87,6 +87,7 @@ https://hackaton-designby-visheshkr.netlify.app/
 ## Project Explanation Video link
 
 https://www.loom.com/share/de5bc160385f490697383d42318820ad
+`recommended to watch at 1.2x speed`
 
 😊👍
 
