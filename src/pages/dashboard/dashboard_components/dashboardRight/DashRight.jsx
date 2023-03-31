@@ -2,6 +2,7 @@ import React from 'react'
 import './dashRight.css'
 
 import { BarChartOutlined, EyeOutlined, FireOutlined } from '@ant-design/icons'
+import DemoScatter from '../graphs/BubbleChart'
 
 const DashRight = ({ highExpenditure, lowExpenditure }) => {
     return (
@@ -42,6 +43,10 @@ const DashRight = ({ highExpenditure, lowExpenditure }) => {
                     <p>TREND GOODS</p>
                     <p className='number'>{lowExpenditure}</p>
                 </div>
+            </div>
+
+            <div className="bubbleChart" style={{position:"absolute", width:"70%"}}>
+                <DemoScatter/>
             </div>
 
         </div>

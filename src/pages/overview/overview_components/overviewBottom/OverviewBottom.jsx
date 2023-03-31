@@ -1,4 +1,6 @@
 import React from 'react'
+import DemoColumn from '../graphs/BarChart';
+
 import './overviewBottom.css'
 
 const OverviewBottom = () => {
@@ -8,7 +10,8 @@ const OverviewBottom = () => {
         <p>salesData</p>
       </div>
       <div className="bottom__barChart">
-        <p>BarChart</p>
+        {/* <DemoColumn/> */}
+       
       </div>
     </div>
   )

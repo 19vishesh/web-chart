@@ -1,6 +1,7 @@
 import React from 'react'
-import DemoRadialBar from './graphs/radialBar';
-import DemoTinyArea from './graphs/TinyLineChart';
+import DemoRadialBar from '../graphs/radialBar';
+import DemoTinyArea from '../graphs/TinyLineChart';
+import { CaretUpOutlined, CaretDownOutlined } from '@ant-design/icons'
 import './dashLeft.css'
 
 const DashLeft = () => {
@@ -9,7 +10,7 @@ const DashLeft = () => {
     <div className='dashBoard__left' >
 
       <div
-       className="dashBoard__left-title">
+        className="dashBoard__left-title">
         Design faster
       </div>
 
@@ -80,7 +81,7 @@ const DashLeft = () => {
             Total Earnings
           </div>
           <div className="dashBoard__left-side-sales__number">
-            $12,875 <span className="increase">+10%</span>
+            $12,875 <span className="increase"><CaretUpOutlined style={{ color: "rgb(164, 247, 164)" }} />10%</span>
           </div>
           <div className="dashBoard__left-side-sales__footerText">
             Compared to $21,490 last year
@@ -97,7 +98,7 @@ const DashLeft = () => {
             Sales
           </div>
           <div className="dashBoard__left-side-sales__number">
-            $14,693 <span className="increase">+10%</span>
+            $14,693 <span className="increase"><CaretUpOutlined style={{ color: "rgb(164, 247, 164)" }} />12%</span>
           </div>
           <div className="dashBoard__left-side-sales__footerText">
             Compared to $18,492 last year
@@ -113,7 +114,7 @@ const DashLeft = () => {
             760
           </div>
           <div className="increase">2,540</div>
-          <div className="increase__icon">+</div>
+          <div className="increase__icon"><CaretUpOutlined style={{ color: "green" }} /></div>
         </div>
         <div className="dashBoard__left-miscellaneous__box">
           <div className="miscellaneous__box-heading">Travel</div>
@@ -121,7 +122,7 @@ const DashLeft = () => {
             760
           </div>
           <div className="increase">2,540</div>
-          <div className="increase__icon">+</div>
+          <div className="increase__icon"><CaretDownOutlined style={{ color: "red" }} /></div>
         </div>
         <div className="dashBoard__left-miscellaneous__box">
           <div className="miscellaneous__box-heading">Travel</div>
@@ -129,7 +130,7 @@ const DashLeft = () => {
             760
           </div>
           <div className="increase">2,540</div>
-          <div className="increase__icon">+</div>
+          <div className="increase__icon"><CaretUpOutlined style={{ color: "green" }} /></div>
         </div>
       </div>
 

@@ -3,6 +3,7 @@
 	background: #eef0fa;
 	width: 100%;
 	height: 90vh;
+	overflow-y: hidden;
 }
 .overView .overView__components {
 	display: flex;

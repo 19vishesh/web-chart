@@ -16,6 +16,7 @@ const Overview = () => {
         <div className='OverView__components-barChart'>
           <OverviewBottom />
       </div>
+      
     </div>
   )
 }
