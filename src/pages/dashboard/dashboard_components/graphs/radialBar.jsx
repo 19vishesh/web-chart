@@ -35,7 +35,7 @@ const DemoRadialBar = () => {
         tooltip: {
             formatter: (datum) => {
                 return {
-                    name: "star数",
+                    name: "star",
                     value: datum.star
                 };
             }

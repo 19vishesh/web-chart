@@ -24,6 +24,11 @@
     margin-top: -5px;
 } 
 
+.tooltip:hover{
+    width: 110px;
+    height: 40px;
+}
+
 
 /* Tooltip inner design starts here */
 .tooltip__icon {

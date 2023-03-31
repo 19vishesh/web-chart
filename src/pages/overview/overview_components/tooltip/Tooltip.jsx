@@ -2,19 +2,25 @@ import React, { useState } from 'react'
 import './tooltip.css'
 import Modal from 'react-modal'
 import { MdOutlineMapsHomeWork } from 'react-icons/md'
+import { TbBuildingPavilion } from 'react-icons/tb'
+import { BsReverseLayoutTextWindowReverse } from 'react-icons/bs'
+import { RiDeleteBinLine } from 'react-icons/ri'
+import { RiBuilding2Line } from 'react-icons/ri'
+import { HiOutlineBuildingOffice2 } from 'react-icons/hi2'
 
 Modal.setAppElement('#root')
 
-const Tooltip = ({ text, number, left, top, fill }) => {
+const Tooltip = ({ text, number, left, top, fill, iconName }) => {
 
     const [modalIsOpen, setModalIsOpen] = useState(false)
+    const [iconAvatar, SeticonAvatar] = useState(iconName)
 
     return (
         <>
             <div className="tooltip" onClick={() => setModalIsOpen(true)} style={{ left: `${left}%`, top: `${top}%` }}>
 
                 <div className='tooltip__icon' style={{ background: `${fill}` }} >
-                    <MdOutlineMapsHomeWork className='icons'/>
+                    <iconAvatar />
                 </div>
                 <div className='tooltip__detail'>
                     <div className='tooltip__detail-heading'>{text}</div>

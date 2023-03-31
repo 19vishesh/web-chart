@@ -9,29 +9,28 @@ const DashLeft = () => {
   return (
     <div className='dashBoard__left' >
 
+      {/*====================== Design faster title STARTS ======================*/}
       <div
         className="dashBoard__left-title">
         Design faster
       </div>
+      {/*====================== Design faster title ENDS ======================*/}
 
+      {/*====================== card1 STARTS here ======================*/}
       <div className="dashBoard__left-circle__chart">
 
         <div className='circle__chart-radialChart'>
           <DemoRadialBar />
         </div>
-
         <div className='circle__chart-heading'>
           Total Earning
         </div>
-
         <div className='circle__chart-heading__number'>
           $12,875
         </div>
-
         <div className='circle__chart-heading__subHeading'>
           Compressed to $21,537 last year
         </div>
-
 
         <div className='circle__chart-lineChartSection'>
           <div className='circle__chart-lineChartSection__box'>
@@ -70,10 +69,12 @@ const DashLeft = () => {
             </div>
           </div>
         </div>
-
-
       </div>
 
+      {/*====================== card1 ENDS here ======================*/}
+
+
+      {/*====================== card2 STARTS here ======================*/}
       <div className="dashBoard__left-side-sales">
         {/* Box1 */}
         <div className='dashBoard__left-side-sales-box'>
@@ -104,9 +105,12 @@ const DashLeft = () => {
             Compared to $18,492 last year
           </div>
         </div>
-
       </div>
+      {/*====================== card2 ENDS here ======================*/}
 
+
+
+      {/*====================== card3 STARTS here ======================*/}
       <div className="dashBoard__left-miscellaneous">
         <div className="dashBoard__left-miscellaneous__box">
           <div className="miscellaneous__box-heading">Travel</div>
@@ -133,6 +137,7 @@ const DashLeft = () => {
           <div className="increase__icon"><CaretUpOutlined style={{ color: "green" }} /></div>
         </div>
       </div>
+      {/*====================== card3 ENDS here ======================*/}
 
     </div>
 
