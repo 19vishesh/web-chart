@@ -23,12 +23,13 @@ const DemoScatter = () => {
         xField: 'x',
         yField: 'y',
         colorField: 'genre',
-        color: ['r(0.4, 0.3, 0.7) 0:rgba(255,255,255,0.5) 1:#5B8FF9', 'r(0.4, 0.4, 0.7) 0:rgba(255,255,255,0.5) 1:#e8a5ff'],
+        color: ['r(0.4, 0.3, 0.7) 0:#958bfd', 'r(0.4, 0.4, 0.7) 0:#ff737d'],
+        // color: ['r(0.4, 0.3, 0.7) 0:rgba(255,255,255,0.5) 1:#695DFB', 'r(0.4, 0.4, 0.7) 0:rgba(255,255,255,0.5) 1:#ff737d'],
         sizeField: 'size',
-        size: [5, 50],
-        
+        size: [8, 40],
+
         legend: false,
-        
+
         shape: 'circle',
         yAxis: {
             nice: true,

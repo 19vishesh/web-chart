@@ -1,5 +1,8 @@
 import React from 'react'
-import { RiseOutlined, CrownOutlined, BarChartOutlined } from '@ant-design/icons';
+import { MdKeyboardArrowRight } from 'react-icons/md';
+import { BiTrendingUp } from 'react-icons/bi';
+import { RiVipCrownLine } from 'react-icons/ri';
+import { MdBarChart } from 'react-icons/md';
 import { RingProgress } from '@ant-design/plots';
 import './overviewLeft.css'
 
@@ -35,7 +38,7 @@ const OverviewLeft = () => {
 
             <div className="overView__left-amount">
                 <div className="overView__left-amount__box1">
-                    All users <span> DETAILS</span>
+                    All users <span> DETAILS <MdKeyboardArrowRight style={{fontSize:"11px",position:"relative", top:"2px"}}/></span>
                 </div>
                 <div className="overView__left-amount__box2">
                     2,431,340
@@ -45,7 +48,7 @@ const OverviewLeft = () => {
             <div className="overView__left-side__indicators">
                 <div className="overView__left-side__indicators-box">
                     <div className='indicator' style={{ background:"#8676FF"}}>
-                        <RiseOutlined style={{color:"white", fontSize:"1.3rem"}}/>
+                        <BiTrendingUp style={{color:"white", fontSize:"1.3rem"}}/>
                     </div>
                     
                     <div>
@@ -56,23 +59,23 @@ const OverviewLeft = () => {
 
                 <div className="overView__left-side__indicators-box">
                     <div className='indicator' style={{ background: "#66C8FF" }}>
-                        <CrownOutlined style={{ color: "white", fontSize: "1.3rem" }} />
+                        <RiVipCrownLine style={{ color: "white", fontSize: "1.3rem" }} />
                     </div>
 
                     <div>
-                        <p>Total earning</p>
-                        <p>540,549</p>
+                        <p>Sales</p>
+                        <p>1,205,677</p>
                     </div>
                 </div>
 
                 <div className="overView__left-side__indicators-box">
                     <div className='indicator' style={{ background: "#FF9066" }}>
-                        <BarChartOutlined style={{ color: "white", fontSize: "1.3rem" }} />
+                        <MdBarChart style={{ color: "white", fontSize: "1.3rem" }} />
                     </div>
 
                     <div>
-                        <p>Total earning</p>
-                        <p>540,549</p>
+                        <p>Purchase</p>
+                        <p>48,430,039</p>
                     </div>
                 </div>
                 
@@ -89,7 +92,7 @@ const OverviewLeft = () => {
                 <div className='overView__left-dough__box2' >
                     <div className='dough'>{DemoRingProgress2()}</div>
                     <div>
-                        <p>92,980</p>
+                        <p>22,652</p>
                         <p className='dough__title'>New users</p>
                     </div>
                 </div>

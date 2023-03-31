@@ -35,7 +35,7 @@ const DashLeft = () => {
         <div className='circle__chart-lineChartSection'>
           <div className='circle__chart-lineChartSection__box'>
             <div className='circle__chart-lineChartSection__heading'>
-              resentation
+              Presentation
             </div>
             <div className="circle__chart-lineChartSection__amount">
               245
@@ -47,10 +47,10 @@ const DashLeft = () => {
 
           <div className='circle__chart-lineChartSection__box'>
             <div className='circle__chart-lineChartSection__heading'>
-              resentation
+              Development
             </div>
             <div className="circle__chart-lineChartSection__amount">
-              245
+              753
             </div>
             <div className="circle__chart-lineChartSection__lineChart">
               <DemoTinyArea />
@@ -59,10 +59,10 @@ const DashLeft = () => {
 
           <div className='circle__chart-lineChartSection__box'>
             <div className='circle__chart-lineChartSection__heading'>
-              resentation
+              Reach & dev
             </div>
             <div className="circle__chart-lineChartSection__amount">
-              245
+              553
             </div>
             <div className="circle__chart-lineChartSection__lineChart">
               <DemoTinyArea />
@@ -121,17 +121,17 @@ const DashLeft = () => {
           <div className="increase__icon"><CaretUpOutlined style={{ color: "green" }} /></div>
         </div>
         <div className="dashBoard__left-miscellaneous__box">
-          <div className="miscellaneous__box-heading">Travel</div>
+          <div className="miscellaneous__box-heading">Extras</div>
           <div className="miscellaneous__box-number">
-            760
+            650
           </div>
           <div className="increase">2,540</div>
           <div className="increase__icon"><CaretDownOutlined style={{ color: "red" }} /></div>
         </div>
         <div className="dashBoard__left-miscellaneous__box">
-          <div className="miscellaneous__box-heading">Travel</div>
+          <div className="miscellaneous__box-heading">Sales</div>
           <div className="miscellaneous__box-number">
-            760
+            612
           </div>
           <div className="increase">2,540</div>
           <div className="increase__icon"><CaretUpOutlined style={{ color: "green" }} /></div>

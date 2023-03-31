@@ -1,74 +1,23 @@
-
-import { Column } from '@ant-design/plots';
+import React, { useState, useEffect } from 'react';
+import ReactDOM from 'react-dom';
+import { TinyColumn } from '@ant-design/plots';
 
 const DemoColumn = () => {
-    const data = [
-        {
-            type: '1-3秒',
-            value: 0.16,
-        },
-        {
-            type: '4-10秒',
-            value: 0.125,
-        },
-        {
-            type: '11-30秒',
-            value: 0.24,
-        },
-        {
-            type: '31-60秒',
-            value: 0.19,
-        },
-        {
-            type: '1-3分',
-            value: 0.22,
-        },
-        {
-            type: '3-10分',
-            value: 0.05,
-        },
-        {
-            type: '10-30分',
-            value: 0.01,
-        },
-        {
-            type: '30+分',
-            value: 0.015,
-        },
-    ];
-    const paletteSemanticRed = '#F4664A';
-    const brandColor = '#5B8FF9';
+    const data = [274, 337, 81, 497, 466, 219, 269, 45, 78, 96, 67, 87, 300, 96, 286, 340, 250, 300, 205, 250, 337, 81, 397, 366, 219, 269, 45, 78, 96, 67, 87, 300, 96, 286, 340, 250, 350, 205, 450, 269, 45, 78, 96, 67, 87, 300, 96, 286, 440, 250, 96, 67, 87, 300, 96, 286, 540, 250, 400, 205, 350, 269, 45, 78, 81, 497, 466, 219, 269];
     const config = {
+        height: 45,
+        autoFit: true,
         data,
-        xField: 'type',
-        yField: 'value',
-        seriesField: '',
-        color: ({ type }) => {
-            if (type === '10-30分' || type === '30+分') {
-                return paletteSemanticRed;
-            }
-
-            return brandColor;
-        },
-        label: {
-            content: (originData) => {
-                const val = parseFloat(originData.value);
-
-                if (val < 0.05) {
-                    return (val * 100).toFixed(1) + '%';
-                }
+        tooltip: {
+            customContent: function (x, data) {
+                return `NO.${x}: ${data[0]?.data?.y.toFixed(2)}`;
             },
-            offset: 10,
         },
-        legend: false,
-        xAxis: {
-            label: {
-                autoHide: true,
-                autoRotate: false,
-            },
+        pattern: {
+            type: 'line',
         },
     };
-    return <Column {...config} />;
+    return <TinyColumn {...config} />;
 };
 
 export default DemoColumn;

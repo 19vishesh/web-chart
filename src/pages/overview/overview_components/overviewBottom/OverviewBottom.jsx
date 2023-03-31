@@ -7,11 +7,11 @@ const OverviewBottom = () => {
   return (
     <div className='overView__bottom' >
       <div className="bottom__salesNumber">
-        <p>salesData</p>
+        <div className='bottom__salesNumber-title'>Sales Figures</div>
+        <div className='bottom__salesNumber-amount'>$10,430</div>
       </div>
       <div className="bottom__barChart">
-        {/* <DemoColumn/> */}
-       
+        <DemoColumn />
       </div>
     </div>
   )

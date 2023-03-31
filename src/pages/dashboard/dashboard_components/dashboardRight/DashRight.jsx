@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './dashRight.css'
 
-import { BarChartOutlined, EyeOutlined, FireOutlined } from '@ant-design/icons'
+import { AiOutlineEye } from 'react-icons/ai'
+import { RiGlobalLine } from 'react-icons/ri'
+import { MdBarChart } from 'react-icons/md'
 import DemoScatter from '../graphs/BubbleChart'
 
 const DashRight = ({ highExpenditure, lowExpenditure }) => {
+
     return (
         <div className='dashBoard__right'>
 
@@ -32,26 +35,27 @@ const DashRight = ({ highExpenditure, lowExpenditure }) => {
 
             {/*============ informers ============*/}
             <div className="dashBoard__right-informer">
-                <div className="dashBoard__right-informer__component trendGoods">
-                    <div className='icon'>
-                        <FireOutlined style={{ fontSize: "15px", color: "black" }} />
-                    </div>
-                    <p className='title'>TREND GOODS</p>
-                    <p className='number'>204</p>
-                </div>
                 <div className="dashBoard__right-informer__component shoppingViews">
                     <div className='icon'>
-                        <EyeOutlined style={{ fontSize: "15px", color: "black" }} />
+                        <AiOutlineEye style={{ fontSize: "15px", color: "#023AFF" }} />
                     </div>
-                    <p className='title'>TREND GOODS</p>
-                    <p className='number'>{highExpenditure}</p>
+                    <p className='title'>HIGHEST EXPENDITURE</p>
+                    <p className='number'>${highExpenditure}</p>
                 </div>
+                <div className="dashBoard__right-informer__component trendGoods">
+                    <div className='icon'>
+                        <RiGlobalLine style={{ fontSize: "15px", color: "#023AFF" }} />
+                    </div>
+                    <p className='title'>TOTAL COUNTRY DATA</p>
+                    <p className='number'>204</p>
+                </div>
+                
                 <div className="dashBoard__right-informer__component storeDynamics">
                     <div className='icon'>
-                        <BarChartOutlined style={{ fontSize: "15px", color: "black" }} />
+                        <MdBarChart style={{ fontSize: "15px", color: "#023AFF" }} />
                     </div>
-                    <p className='title'>TREND GOODS</p>
-                    <p className='number'>{lowExpenditure}</p>
+                    <p className='title'>LOWEST EXPENDITURE</p>
+                    <p className='number'>${lowExpenditure}</p>
                 </div>
             </div>
 

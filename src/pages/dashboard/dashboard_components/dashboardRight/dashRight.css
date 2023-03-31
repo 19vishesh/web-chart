@@ -78,7 +78,7 @@
 .dashBoard__right-informer {
     display: flex;
     justify-content: space-between;
-    width: 400px;
+    width: 500px;
     line-height: 1rem;
 }
 
