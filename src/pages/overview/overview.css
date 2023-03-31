@@ -5,11 +5,14 @@
 	height: 90vh;
 	overflow-y: hidden;
 }
+
+/* Left and right component */
 .overView .overView__components {
 	display: flex;
 	justify-content: space-between;
 }
 
+/* bottom component BarChart */
 .OverView__components-barChart {
 	display: flex;
 	position: absolute;

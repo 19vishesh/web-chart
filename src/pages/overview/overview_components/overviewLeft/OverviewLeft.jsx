@@ -8,6 +8,7 @@ import './overviewLeft.css'
 
 const OverviewLeft = () => {
     
+    // Functions for two progress rings
     const DemoRingProgress1 = () => {
         const config = {
             height: 100,
@@ -29,13 +30,16 @@ const OverviewLeft = () => {
         return <RingProgress {...config} />;
     };
 
+
     return (
         <div className='overView__left' >
 
+            {/*=================== Title STARTS ======================*/}
             <p className="overView__left-title">
                 WSTF FRONT-END HACKATHON
             </p>
 
+            {/*=================== Card2 STARTS ======================*/}
             <div className="overView__left-amount">
                 <div className="overView__left-amount__box1">
                     All users <span> DETAILS <MdKeyboardArrowRight style={{fontSize:"11px",position:"relative", top:"2px"}}/></span>
@@ -44,7 +48,9 @@ const OverviewLeft = () => {
                     2,431,340
                 </div>
             </div>
+            {/*=================== Card2 ENDS ======================*/}
 
+            {/*=================== Card3 INDICATOR STARTS ======================*/}
             <div className="overView__left-side__indicators">
                 <div className="overView__left-side__indicators-box">
                     <div className='indicator' style={{ background:"#8676FF"}}>
@@ -80,7 +86,9 @@ const OverviewLeft = () => {
                 </div>
                 
             </div>
+            {/*=================== Card3 INDICATOR ENDS ======================*/}
 
+            {/*=================== Progess Ring STARTS ======================*/}
             <div className="overView__left-dough">
                 <div className='overView__left-dough__box1' >
                     <div className='dough'>{DemoRingProgress1()}</div>
@@ -97,6 +105,7 @@ const OverviewLeft = () => {
                     </div>
                 </div>
             </div>
+            {/*=================== Progess Ring END ======================*/}
         </div>
     )
 }
