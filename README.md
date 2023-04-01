@@ -58,8 +58,8 @@ This was a 92hr long project duing the Wasserstoff Hackathon. Project goals incl
 
 ## Challenges Faced
 
-- One of the biggest challenge i have faced with the dataSet, Since team has not provided any dataset to it was bit difficult to wearch for he proper dataSet that available globally and should mimic the design requirements of the Figma template.
-- Some part of the design was little bit challenging for me code in alloted time (`but this is why it is hackathon`) So, after some research to tackel that I used ant-design library for plots and for `map` i have used react-simple-map library.
+- One of the biggest challenge i have faced with the dataSet, Since team has not provided any dataset to it was bit difficult to search for the proper dataSet that available globally and should mimic the design requirements of the Figma template.
+- Some part of the design was little bit challenging for me to code in alloted time (`but this is why it is hackathon`) So, after some research to tackel that I used ant-design library for plots and for `map` I have used react-simple-map library.
 
 
 ## Approach
@@ -67,7 +67,7 @@ This was a 92hr long project duing the Wasserstoff Hackathon. Project goals incl
 
  Then, Two components `navbar` and `footer` I built and pass it to the App.js file. 
 
- There was only two page required to build `Overview` and `Dashboard` so except these two there was two more pages `Statistics` and `Analytics` i have creted a underconstruction message under these two pages (`this was not the requiremnt of the project, built for better user Experience`).
+ There was only two page required to build `Overview` and `Dashboard` so except these two there was two more pages `Statistics` and `Analytics` I have creted a underconstruction message under these two pages (`this was not the requiremnt of the project, built for better user Experience`).
 
  Under `Overview` page i have categoried it into Three section [`left`, `right`, and `bottom`] *** i know it is very straight-forward but yes it is straight-forward ***
 
