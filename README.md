@@ -1,4 +1,4 @@
-## Wasseerstoff Front-end Hackathon
+## Wasseerstoff Front-end Hackathon.
 
 #### Agenda:
 
